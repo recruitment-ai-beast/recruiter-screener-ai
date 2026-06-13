@@ -57,7 +57,9 @@ streamlit run screener-app.py
 ```
 
 ---
+## Live Demo
 
+🔗 [Coming soon — deployment in progress]
 ## Roadmap
 
 - [ ] Bulk resume upload (screen 20+ candidates per job at once)
