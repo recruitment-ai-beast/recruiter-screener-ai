@@ -59,7 +59,7 @@ streamlit run screener-app.py
 ---
 ## Live Demo
 
-🔗 [Coming soon — deployment in progress]
+🔗 [Try it live](https://web-production-4b1e5.up.railway.app)
 ## Roadmap
 
 - [ ] Bulk resume upload (screen 20+ candidates per job at once)
