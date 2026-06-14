@@ -24,7 +24,7 @@ Built for recruitment agencies and staffing firms drowning in manual resume scre
 | AI Orchestration | LangChain |
 | LLM | Groq |
 | Language | Python 3.12 |
-| Deployment | Railway / Render |
+| Deployment | Railway / Render / Streamlit |
 
 ---
 
@@ -59,7 +59,7 @@ streamlit run screener-app.py
 ---
 ## Live Demo
 
-🔗 [Try it live-Coming Soon]
+🔗 [Try it live](https://ai-for-resume-screening.streamlit.app/)
 ## Roadmap
 
 - [ ] Bulk resume upload (screen 20+ candidates per job at once)
